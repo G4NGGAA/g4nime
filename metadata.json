@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Anime Stream",
+  "description": "A modern, minimalist anime streaming web application built with React and Tailwind CSS, using the AnimeKompi API. Features a sleek design with dark/light modes, search, and detailed anime pages.",
+  "requestFramePermissions": []
+}
